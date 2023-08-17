@@ -1,0 +1,19 @@
+{
+  "name": "art-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hashlips-lab/art-engine-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashlips-lab/art-engine": "^2.0.0-alpha5"
+  }
+}
